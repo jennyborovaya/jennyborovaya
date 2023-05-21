@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jennyborovaya
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning Karpov.courses
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on job
 - 📫 How to reach me ejennyborovaya@gmail.com
 
 <!---
